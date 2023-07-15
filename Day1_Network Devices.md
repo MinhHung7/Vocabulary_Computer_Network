@@ -5,4 +5,9 @@
 - **Nodes**: include **router, switch, firewall, server, client**
 - **Separate**: chia tách
 - **Indeed**: quả thật, thật sự
+- **For the sake of this**: vì mục đích này
+- **Typically**: thông thường
+- **Aggregate**:tổng hợp lại
+- **Via**: thông qua
+- **Arsenal**: nguy hiểm
 - 
