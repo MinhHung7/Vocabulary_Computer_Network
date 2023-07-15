@@ -1,0 +1,8 @@
+- **Overlap**: gối, đè lên nhau
+- **Regarding**: liên quan
+- **familiarity**: sự quen, thân thuộc
+- **foundational**: nền tảng
+- **Nodes**: include **router, switch, firewall, server, client**
+- **Separate**: chia tách
+- **Indeed**: quả thật, thật sự
+- 
