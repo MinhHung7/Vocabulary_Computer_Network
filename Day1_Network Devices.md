@@ -10,4 +10,3 @@
 - **Aggregate**:tổng hợp lại
 - **Via**: thông qua
 - **Arsenal**: nguy hiểm
-- 
