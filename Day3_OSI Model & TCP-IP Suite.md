@@ -1,0 +1,4 @@
+ - **Categorize**: phân loại, sắp xếp
+ - **Conceptual**: khái niệm
+ - **Adjacent**: nằm cạnh nhau
+ - 
