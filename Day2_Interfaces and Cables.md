@@ -1,0 +1,8 @@
+- **Copper**: dây đồng
+- **Vendor**: nha cung cap
+- **Commonplace**: thuong thay
+- **Snapshot**: anh chup nhanh
+- **Twisted**: quan lay nhau
+- **Bidirectional**: hai chieu
+- **Dedicate**: danh rieng
+- 
