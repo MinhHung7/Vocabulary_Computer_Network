@@ -1,8 +1,10 @@
 - **Copper**: dây đồng
-- **Vendor**: nha cung cap
-- **Commonplace**: thuong thay
-- **Snapshot**: anh chup nhanh
-- **Twisted**: quan lay nhau
-- **Bidirectional**: hai chieu
-- **Dedicate**: danh rieng
-- 
+- **Vendor**: nhà cung cấp
+- **Commonplace**: thường thấy
+- **Snapshot**: ảnh chụp nhanh
+- **Twisted**: quấn lấy nhau
+- **Bidirectional**: hai chiều
+- **Dedicate**: dành riêng
+- **Emit**: phát
+- **Faint**: yếu
+- ****
