@@ -1,0 +1,1 @@
+- **Terminal**: thiet bi gia lap dau cuoi
