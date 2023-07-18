@@ -1,1 +1,3 @@
 - **Terminal**: thiet bi gia lap dau cuoi
+- **Repetition**: lap di lap lai
+- 
