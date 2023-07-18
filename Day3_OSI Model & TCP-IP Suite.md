@@ -1,4 +1,11 @@
  - **Categorize**: phân loại, sắp xếp
  - **Conceptual**: khái niệm
  - **Adjacent**: nằm cạnh nhau
+ - **Encryption**: ma hoa
+ - **Intended**: du dinh
+ - **Recipient**: nguoi nhan
+ - **Dialogues**: giao tiep
+ - **Terminate**: cham dut
+ - **Segments**: phan doan
+ - **Reassembles**: tap hop
  - 
