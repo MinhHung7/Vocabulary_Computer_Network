@@ -1,3 +1,8 @@
 - **Terminal**: thiet bi gia lap dau cuoi
 - **Repetition**: lap di lap lai
-- 
+- **Infracture**: co so ha tang
+- **Milestone**: cot moc
+- **Hybrid**: lai tap
+- **Pure**: ban chat
+- ****
+-
